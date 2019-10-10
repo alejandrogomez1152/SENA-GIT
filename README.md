@@ -1,2 +1,2 @@
 # SENA-GIT
-Se debe hacer un repocitorio para actualizarse y completar la guia de github
+Se debe hacer un repositorio para actualizarse y completar la guia de github
